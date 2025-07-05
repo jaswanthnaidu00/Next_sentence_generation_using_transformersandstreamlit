@@ -24,3 +24,6 @@ The goal of this project is to simulate a predictive text system similar to smar
 1. Install dependencies:
    ```bash
    pip install streamlit transformers torch
+2. Run the app in terminal
+ -  streamlit run app.py
+3. The app will open at http://localhost:8501 in your browser.
